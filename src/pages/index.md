@@ -1,5 +1,5 @@
 ---
-title: 'Home '
+title: Home | ASTONE Group
 hide_title: true
 sections:
   - section_id: hero
