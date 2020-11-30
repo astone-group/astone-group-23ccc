@@ -62,7 +62,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
-        image: images/ASTONE logo 2c.png
+        image: images/3.jpg
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
