@@ -45,7 +45,7 @@ sections:
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
         image: images/ASTONE logo 4.png
-      - title: Wellbeing
+      - title: Wellbeing and Positive Mental Health
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
