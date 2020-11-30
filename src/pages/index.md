@@ -50,7 +50,7 @@ sections:
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
         image: images/ASTONE logo 2c.png
-      - title: 'Career '
+      - title: Career Transformation
         content: >-
           ## Lorem ipsum
 
