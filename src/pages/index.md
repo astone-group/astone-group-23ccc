@@ -23,7 +23,7 @@ sections:
   - section_id: services
     type: section_grid
     title: What We Do
-    subtitle: 'Our services '
+    subtitle: Our expertise and passion
     col_number: two
     is_numbered: true
     grid_items:
