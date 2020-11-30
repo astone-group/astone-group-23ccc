@@ -15,7 +15,7 @@ sections:
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic
-    title: Stuff weWhat we do
+    title: Stuff w
     subtitle: Our Services
     projects_number: 6
     view_all_label: View All
