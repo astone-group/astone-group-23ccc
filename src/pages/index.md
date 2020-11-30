@@ -44,7 +44,7 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
-        image: images/ASTONE logo 4.png
+        image: images/5.jpg
       - title: Wellbeing and Positive Mental Health
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
