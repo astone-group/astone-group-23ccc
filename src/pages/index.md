@@ -6,8 +6,8 @@ sections:
     type: section_hero
     title: 'Developing leaders, teams and organisations to kick ass.'
     content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+      Through simple, practical and robust approaches based on evidence and
+      psychological research.
     actions:
       - label: Let's chat!
         url: /contact
