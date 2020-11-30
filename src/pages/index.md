@@ -32,7 +32,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-        image: images/ASTONE logo 2c.png
+        image: images/1.jpg
       - title: Leadership Coaching
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
