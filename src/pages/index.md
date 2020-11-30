@@ -75,6 +75,7 @@ sections:
           - dolor sit amet
         actions: []
         type: grid_item
+        image: images/4.jpg
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
