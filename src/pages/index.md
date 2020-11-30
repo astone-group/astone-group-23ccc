@@ -63,7 +63,7 @@ sections:
         actions: []
         type: grid_item
         image: images/3.jpg
-      - title: Ass
+      - title: Development Assessments
         content: >-
           ## Lorem ipsum
 
