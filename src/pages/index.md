@@ -22,7 +22,7 @@ sections:
     view_all_url: portfolio
   - section_id: services
     type: section_grid
-    title: What we love to do
+    title: What we love to do!
     subtitle: Our expertise and passion
     col_number: two
     is_numbered: false
