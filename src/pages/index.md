@@ -63,7 +63,7 @@ sections:
         actions: []
         type: grid_item
         image: images/3.jpg
-      - title: lorem-ipsum
+      - title: Ass
         content: >-
           ## Lorem ipsum
 
