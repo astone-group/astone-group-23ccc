@@ -51,15 +51,9 @@ sections:
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
         image: images/6.jpg
       - title: Career Transformation
-        content: >-
-          ## Lorem ipsum
-
+        content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-          - Lorem ipsum
-
-          - dolor sit amet
         actions: []
         type: grid_item
         image: images/3.jpg
