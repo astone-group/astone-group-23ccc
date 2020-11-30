@@ -50,6 +50,18 @@ sections:
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
         image: images/ASTONE logo 2c.png
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        actions: []
+        type: grid_item
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
