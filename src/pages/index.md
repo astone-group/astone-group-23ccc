@@ -38,7 +38,7 @@ sections:
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
           tincidunt ut tellus.
-        image: images/ASTONE logo 4.png
+        image: images/2.jpg
       - title: Team Performance and Development
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
