@@ -41,7 +41,7 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        image: images/charles-deluvio-pSlrGad9Rxs-unsplash 2.jpg
+        image: images/mike-dorner-sf_1ZDA1YFw-unsplash 2.jpg
       - title: Career Coaching
         content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
