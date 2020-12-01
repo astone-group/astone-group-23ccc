@@ -1,7 +1,7 @@
 ---
 title: Assessment
 excerpt: Hiring.  Get it rightrating assessment data.
-date: '2019-03-27'
+date: ''
 thumb_image: images/12.jpg
 image: images/12.jpg
 template: post
