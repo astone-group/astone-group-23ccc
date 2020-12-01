@@ -16,7 +16,7 @@ sections:
     type: section_grid
     title: What we love to do!
     subtitle: Our expertise and passion
-    col_number: three
+    col_number: two
     is_numbered: false
     grid_items:
       - title: Assessment
