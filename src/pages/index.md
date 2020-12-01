@@ -91,7 +91,7 @@ sections:
     title: Latest from the Blog
     subtitle: An optional subtitle of the section
     posts_number: 6
-    col_number: three
+    col_number: two
     actions:
       - label: View Blog
         url: blog
