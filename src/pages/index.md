@@ -80,7 +80,7 @@ sections:
           convallis, interdum ligula vel, pretium diam.
   - section_id: latest-projects
     type: section_portfolio
-    layout_style: mosaic
+    layout_style: tiles
     title: What we do
     subtitle: Key Services
     projects_number: 6
