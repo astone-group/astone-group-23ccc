@@ -89,7 +89,7 @@ sections:
   - section_id: latest-posts
     type: section_posts
     title: What we love to do!
-    subtitle: An optional subtitle of the section
+    subtitle: Our expertise and passion
     posts_number: 6
     col_number: two
     actions:
