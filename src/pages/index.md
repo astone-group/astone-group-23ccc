@@ -88,7 +88,7 @@ sections:
           convallis, interdum ligula vel, pretium diam.
   - section_id: latest-posts
     type: section_posts
-    title: Latest from the Blog
+    title: What we love to do!
     subtitle: An optional subtitle of the section
     posts_number: 6
     col_number: two
