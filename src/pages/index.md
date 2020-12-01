@@ -36,7 +36,7 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
-        image: images/royal-maple.jpg
+        image: images/charles-deluvio-ZBsqJwNOSoE-unsplash.jpg
       - title: Wellbeing and Positive Mental Health
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
