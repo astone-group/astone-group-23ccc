@@ -24,7 +24,7 @@ sections:
           Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
           ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
           fringilla, fringilla.
-        image: images/1.jpg
+        image: images/icons8-team-dhZtNlvNE8M-unsplash.jpg
       - title: Leadership Coaching
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
