@@ -78,14 +78,6 @@ sections:
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
-  - section_id: latest-projects
-    type: section_portfolio
-    layout_style: tiles
-    title: What we do
-    subtitle: Key Services
-    projects_number: 6
-    view_all_label: View All
-    view_all_url: portfolio
 template: advanced
 excerpt: ''
 ---
