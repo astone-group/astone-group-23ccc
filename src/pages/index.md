@@ -55,7 +55,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         actions: []
         type: grid_item
-        image: images/bantersnaps-qvpdxSN21YQ-unsplash (1).jpg
+        image: images/xiaoxiao-sun-e8e4YY65sOk-unsplash 2.jpg
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
