@@ -48,7 +48,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         actions: []
         type: grid_item
-        image: images/icons8-team-BzAEmJc2-2w-unsplash.jpg
+        image: images/oscar-sutton-rNTXkBaQAvk-unsplash.jpg
       - title: Development Assessments
         content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
