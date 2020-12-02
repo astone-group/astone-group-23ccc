@@ -55,7 +55,7 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         actions: []
         type: grid_item
-        image: images/edgar-chaparro-r6mBXuHnxBk-unsplash 2.jpg
+        image: images/ehimetalor-akhere-unuabona-SEaooUTx8iA-unsplash.jpg
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
