@@ -41,7 +41,7 @@ sections:
         content: >-
           Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
           nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        image: images/10.jpg
+        image: images/nervous-lime.jpg
       - title: Career Coaching
         content: >
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
