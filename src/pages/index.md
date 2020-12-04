@@ -54,7 +54,6 @@ sections:
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         actions: []
         type: grid_item
-        image: images/Assess_Dev.jpg
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials
