@@ -78,7 +78,7 @@ sections:
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
-  - title: lorem-ipsum
+  - title: Services
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     layout_style: mosaic
