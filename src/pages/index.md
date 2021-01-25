@@ -20,10 +20,12 @@ sections:
     is_numbered: false
     grid_items:
       - title: Psychometric Assessments
-        content: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
-          ligula, cursus id molestie vel, maximus aliquet risus. Vivamus in nibh
-          fringilla, fringilla.
+        content: >
+          Assessment data is one of the most powerful ways of prediciting on job
+          performance and culture fit.  We help you to make sense of
+          psychometric data, and integrate these results with other methods of
+          assessment - and your gut-feel - to increase your liklihood of making
+          a good hire.
         image: images/neat-maple.jpg
       - title: Leadership Coaching
         content: >-
