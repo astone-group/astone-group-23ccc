@@ -29,7 +29,7 @@ sections:
           liklihood of making a good hire** by integrating assessment data with
           other methods of selection (and your gut feel), and to plan and craft
           your next stages of interview, reference checks and on-boarding.
-        image: images/incredible-celery.jpg
+        image: images/assessment 12_1.jpg
       - title: Leadership Coaching
         content: >
           Are leaders born or made? While some of us might seem more natural
