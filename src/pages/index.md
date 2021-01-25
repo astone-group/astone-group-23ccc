@@ -21,11 +21,12 @@ sections:
     grid_items:
       - title: Psychometric Assessments
         content: >
-          Assessment data is one of the most powerful ways of prediciting on job
-          performance and culture fit.  We help you to make sense of
-          psychometric data, and integrate these results with other methods of
-          assessment - and your gut-feel - to increase your liklihood of making
-          a good hire.
+          We know that** psychometric assessment data** is one of the most
+          powerful ways of prediciting job performance and culture fit.  We help
+          you to **make sense **of this data and  to **increase your liklihood
+          of making a good hire** by integrating assessment data with other
+          methods of selection (and your gut feel), and to plan and craft your
+          next stages of interview, reference checks and on-boarding.  
         image: images/neat-maple.jpg
       - title: Leadership Coaching
         content: >-
