@@ -29,10 +29,8 @@ sections:
           next stages of interview, reference checks and on-boarding.  
         image: images/neat-maple.jpg
       - title: Leadership Coaching
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+        content: |
+          Are leaders born or made? 
         image: images/graceful-mustard.jpg
       - title: Team Performance and Development
         content: >-
