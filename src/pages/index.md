@@ -29,8 +29,15 @@ sections:
           next stages of interview, reference checks and on-boarding.  
         image: images/neat-maple.jpg
       - title: Leadership Coaching
-        content: |
-          Are leaders born or made? 
+        content: >
+          Are leaders born or made? While some of us might seem more natural
+          than others, we believe in the **potential for growth and
+          development** within all of us, including the great leaders among us. 
+          Leadership coaching is a **high impact** and **high accountability**
+          approach to developing an individual's personal leadership capability,
+          and embed new and helpful behaviours that will maintain a virtuous,
+          upward spiral.  This almost always begins with honest self-reflective,
+          personal insights, and an exploration of the individual **why**.
         image: images/graceful-mustard.jpg
       - title: Team Performance and Development
         content: >-
