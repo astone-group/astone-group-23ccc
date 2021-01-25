@@ -23,7 +23,7 @@ sections:
         content: >
           We know that psychometric assessment data is one of the most powerful
           ways of **predicting job performance and culture fit**.  We help you
-          to **make sens **of this data and  to **increase your liklihood of
+          to **make sense of this data** and  to **increase your liklihood of
           making a good hire** by integrating assessment data with other methods
           of selection (and your gut feel), and to plan and craft your next
           stages of interview, reference checks and on-boarding.
