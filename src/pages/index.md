@@ -34,7 +34,10 @@ sections:
         content: >
           Are leaders born or made? While some of us might seem more natural
           than others, we believe in the **potential for growth and
-          development** within all of us, including the great leaders among us. 
+          development** within all of us, including the great leaders among
+          us.  
+
+
           Leadership coaching is a **high impact** and **high accountability**
           approach to developing an individual's personal leadership capability,
           and embed new and helpful behaviours that will maintain a virtuous,
