@@ -1,5 +1,5 @@
 ---
-title: Home | ASTONE Group
+title: ASTONE Group
 hide_title: true
 sections:
   - section_id: hero
