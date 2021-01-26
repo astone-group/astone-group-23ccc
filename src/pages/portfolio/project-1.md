@@ -1,6 +1,6 @@
 ---
 title: Assessment
-subtitle: Optional Project Subtitle
+subtitle: Psychometric Assessments for Talent Selection
 date: '2019-05-10'
 thumb_image: images/1.jpg
 image: images/Wellbeing.jpg
