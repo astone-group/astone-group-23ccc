@@ -94,7 +94,7 @@ sections:
   - title: Services
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
-    layout_style: mosaic
+    layout_style: tiles
     projects_number: 2
     view_all_label: lorem-ipsum
     view_all_url: lorem-ipsum
