@@ -93,7 +93,7 @@ sections:
           convallis, interdum ligula vel, pretium diam.
   - title: What we love to do!
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: Our expertise and passion
     layout_style: tiles
     projects_number: 2
     view_all_label: lorem-ipsum
