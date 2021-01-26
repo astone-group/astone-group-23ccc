@@ -1,6 +1,6 @@
 ---
 title: Coaching for Leaders
-subtitle: Optional Project Subtitle
+subtitle: Individual coaching for sustained
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
 image: images/2.jpg
