@@ -95,7 +95,7 @@ sections:
     section_id: lorem-ipsum
     subtitle: Our expertise and passion
     layout_style: tiles
-    projects_number: 2
+    projects_number: 6
     view_all_label: lorem-ipsum
     view_all_url: lorem-ipsum
     type: section_portfolio
