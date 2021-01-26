@@ -1,5 +1,5 @@
 ---
-title: Home | ASTONE Group
+title: ASTONE Group
 hide_title: true
 sections:
   - section_id: hero
@@ -91,12 +91,12 @@ sections:
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
-  - title: Services
+  - title: What we love to do!
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
-    layout_style: mosaic
-    projects_number: 2
-    view_all_label: lorem-ipsum
+    subtitle: Our expertise and passion
+    layout_style: tiles
+    projects_number: 6
+    view_all_label: View all
     view_all_url: lorem-ipsum
     type: section_portfolio
 template: advanced

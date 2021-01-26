@@ -1,8 +1,8 @@
 ---
-title: Tester 1
-subtitle: Optional Project Subtitle
+title: Assessment
+subtitle: Psychometric Assessments for Talent Selection
 date: '2019-05-10'
-thumb_image: images/Assessment.jpg
+thumb_image: images/1.jpg
 image: images/Wellbeing.jpg
 template: project
 excerpt: Excerpt
