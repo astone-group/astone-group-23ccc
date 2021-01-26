@@ -1,6 +1,6 @@
 ---
 title: Coaching for Leaders
-subtitle: 'Individual coaching for sustained '
+subtitle: Individual coaching for sustained development
 date: '2019-04-30'
 thumb_image: images/2_thumb.jpg
 image: images/2.jpg
