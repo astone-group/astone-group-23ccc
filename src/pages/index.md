@@ -91,7 +91,7 @@ sections:
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam.
-  - title: What we love to do
+  - title: What we love to do!
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     layout_style: tiles
